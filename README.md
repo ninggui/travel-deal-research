@@ -1,5 +1,8 @@
 <div align="center">
 
+
+![cover](assets/cover.png)
+
 # travel-deal-research
 
 **机票酒店比价+盯价：多平台对比，红眼航班要算住宿成本。**
